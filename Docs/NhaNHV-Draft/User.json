@@ -1,0 +1,63 @@
+{
+  "name": "An",
+  "skills": ["Figma", "Teamwork"],
+  "goals": ["Sáng tạo", "Làm remote"]
+}
+
+{
+  "skills": ["UI Design", "Teamwork"],
+  "goals": ["Làm việc linh hoạt", "Tạo sản phẩm sáng tạo"]
+}
+{
+  "skills": ["Figma", "Làm việc nhóm"],
+  "goals": ["Tạo ra sản phẩm giúp ích cho người khác"],
+  "personality": ["Hướng ngoại", "Sáng tạo", "Thích đóng góp xã hội"]
+}
+
+{
+  "skills": ["Figma", "Làm việc nhóm"],
+  "goals": ["Tạo sản phẩm giúp người khác"],
+  "personality": ["Sáng tạo"]
+}
+
+{
+  "skills": [],
+  "goals": [],
+  "personality": [],
+  "constraints": [],
+  "preferred_work_style": ""
+}
+
+{
+  "id": "u123",
+  "name": "Nha",
+  "skills": ["Figma", "UI Design"],
+  "goals": ["Làm sản phẩm giúp người khác"],
+  "last_updated": "2025-07-29"
+}
+
+{
+  "id": "user_abc123",
+  "name": "An",
+  "created_at": "2025-07-29",
+  "skills": ["Figma", "UI Design", "Teamwork"],
+  "goals": ["Muốn tạo ra sản phẩm giúp người khác"],
+  "personality": ["Sáng tạo", "Hướng ngoại"],
+  "preferred_work_style": "remote, linh hoạt",
+  "constraints": ["Không thích code", "Không muốn làm việc cố định tại văn phòng"],
+  "career_suggestions": [
+    {
+      "id": "career_ux_designer",
+      "matched_on": ["skills", "goals"],
+      "score": 0.82,
+      "timestamp": "2025-07-29T12:00:00Z"
+    }
+  ],
+  "history": [
+    {
+      "question": "Tôi nên học gì để thành product manager?",
+      "response_summary": "Gợi ý học thêm Business Analysis và kỹ năng lãnh đạo.",
+      "timestamp": "2025-07-29T12:05:00Z"
+    }
+  ]
+}

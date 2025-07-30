@@ -1,0 +1,72 @@
+[
+  {
+    "id": "career_ux_designer",
+    "name": "UX Designer",
+    "skills_required": ["UI Design", "User Research", "Figma", "Empathy"],
+    "personality_traits": ["Sáng tạo", "Yêu thích người dùng", "Tư duy hệ thống"],
+    "suitable_for": ["Người yêu thiết kế", "Người thích cải tiến trải nghiệm"],
+    "learning_resources": [
+      "https://uxdesign.cc",
+      "https://careerfoundry.com/en/blog/ux-design"
+    ]
+  },
+  {
+    "id": "career_data_analyst",
+    "name": "Data Analyst",
+    "skills_required": ["Excel", "SQL", "Data Visualization", "Critical Thinking"],
+    "personality_traits": ["Tư duy logic", "Thích phân tích", "Chi tiết"],
+    "suitable_for": ["Người thích số liệu", "Người tò mò"],
+    "learning_resources": [
+      "https://mode.com/sql-tutorial/",
+      "https://www.khanacademy.org/computing/computer-programming/sql"
+    ]
+  },
+  {
+    "id": "career_product_manager",
+    "name": "Product Manager",
+    "skills_required": ["Communication", "Market Research", "Leadership", "Problem Solving"],
+    "personality_traits": ["Thích tổ chức", "Giao tiếp tốt", "Thấy bức tranh lớn"],
+    "suitable_for": ["Người đa năng", "Người thích phối hợp nhiều bên"],
+    "learning_resources": [
+      "https://www.productschool.com",
+      "https://www.intercom.com/blog/product-management/"
+    ]
+  }
+]
+
+{
+  "id": "career_product_manager",
+  "name": "Product Manager",
+  "description": "Quản lý vòng đời sản phẩm, phối hợp giữa các bộ phận để phát triển sản phẩm phù hợp với nhu cầu người dùng.",
+  "skills_required": ["Business Analysis", "Communication", "Leadership", "Problem Solving"],
+  "goals_aligned": ["Phát triển sản phẩm", "Tạo giá trị cho người dùng", "Chiến lược"],
+  "personality_fit": ["Tư duy hệ thống", "Chủ động", "Lãnh đạo"],
+  "constraints_unsuitable": ["Không thích giao tiếp", "Ngại trách nhiệm"],
+  "learning_paths": [
+    {
+      "title": "Khoá học Product School",
+      "url": "https://www.productschool.com/",
+      "type": "course"
+    },
+    {
+      "title": "Product Management Guide by Intercom",
+      "url": "https://www.intercom.com/blog/product-management/",
+      "type": "article"
+    }
+  ],
+  "embedding": [0.134, -0.874, ...] // (embedding vector - optional nếu dùng semantic search)
+}
+[
+  {
+    "id": "career_product_manager",
+    "name": "Product Manager",
+    "description": "...",
+    "skills_required": [...],
+    "goals_aligned": [...],
+    "personality_fit": [...],
+    "constraints_unsuitable": [...],
+    "learning_paths": [...],
+    "embedding": [...] // optional
+  },
+  ...
+]
