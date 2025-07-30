@@ -1,6 +1,9 @@
+```
 🔹 Người dùng: “Tôi thích thiết kế và làm việc với con người.”
 🔹 Agent: “Bạn có kỹ năng mềm mạnh, phù hợp với các ngành UX Design, Product Owner hoặc HR Tech. Bạn có muốn khám phá thêm hướng quản lý hay kỹ thuật không?”
+```
 
+```
 1️⃣ User bắt đầu → “Tôi muốn biết mình hợp nghề gì”
 2️⃣ Agent hỏi: “Bạn đang có những kỹ năng nào?”
 3️⃣ User trả lời: “Figma, UI, teamwork”
@@ -9,6 +12,7 @@
 6️⃣ User: “Tôi muốn làm sản phẩm giúp người khác”
 7️⃣ Agent gợi ý: “Bạn phù hợp với nghề Product Designer, Design Strategist...”
 8️⃣ Agent hỏi tiếp: “Bạn muốn đào sâu nghề nào?”
+```
 
 ```
 🧑 Bạn: Mình biết Figma và từng làm thiết kế UI/UX.
@@ -22,4 +26,6 @@
 
 ```
 
+```
 “Chào mừng bạn quay lại, An! Lần trước bạn chia sẻ rằng bạn giỏi UI/UX và muốn làm sản phẩm có ích cho xã hội. Bạn muốn tiếp tục với nghề UX Designer, hay khám phá hướng khác?”
+```
